@@ -12,6 +12,7 @@ This is a frontend dashboard project built using Next.js and Chart.js. It displa
 - npm or yarn
 
 ### Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/my-dashboard.git
