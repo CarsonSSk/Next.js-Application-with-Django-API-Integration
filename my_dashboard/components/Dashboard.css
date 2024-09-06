@@ -1,0 +1,30 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh; /* This ensures it takes up the full height of the screen */
+  }
+  
+  .chart-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 20px; /* Adds some space between the charts */
+  }
+  
+  .chart-container {
+    width: 600px; /* Set width of the charts */
+    height: 400px; /* Set height of the charts */
+  }
+  
+  .pie-chart-container {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: 400px;
+    margin-top: 20px;
+  }
+  
